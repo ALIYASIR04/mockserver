@@ -1,7 +1,7 @@
 {
    "ResponseCode": 200,
    "ErrorMessage": "",
-   "Content": {
+   "Trending": {
       "DataPoints": [
          {
             "TestName": "Cholesterol LDL, Calc",
