@@ -1,0 +1,58 @@
+{
+"NonTrending" : {
+   "ResponseCode": 200,
+   "ErrorMessage": null,
+   "Content": {
+      "Summary": {
+         "OrderingFacility": "KKH",
+         "PerformingFacility": "KKH",
+         "DisplayDate": "2019-07-10T13:44:00+08:00",
+         "RecordId": "200t0s1M171L1M1O1B1L1B1M131W1D1D1A1W1W1W0n0v0j0n0v0n0j0m0m0n0v1W1W0v0m0m0m0m0m0r0t0t0r0p0m0m0n0s0m",
+         "Title": "Lipid Panel (CHO/HDL/TG/LDLc)",
+         "HasAbnormalRecord": false
+      },
+      "Details": [
+         {
+            "TestName": "Cholesterol LDL, Calc",
+            "TestResult": "3.1 (mmol/L)",
+            "ReferenceRange": null,
+            "Remarks": "Optimal:                    <2.6               mmol/L\nDesirable:                 2.6 - 3.3         mmol/L\nBorderline high:        3.4 - 4.0         mmol/L\nHigh:                         4.1 - 4.8         mmol/L\nVery High:                >=4.9              mmol/L\n\nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
+            "DisplayDate": "2019-07-10T13:44:00+08:00",
+            "Value": "3.1",
+            "Unit": "mmol/L",
+            "IsAbnormalOrCritical": false
+         },
+         {
+            "TestName": "Triglycerides, serum",
+            "TestResult": "2.0 (mmol/L)",
+            "ReferenceRange": null,
+            "Remarks": "Optimal:                     <1.7              mmol/L\nDesirable:                  1.7 - 2.2        mmol/L\nHigh:                          2.3 - 4.4        mmol/L\nVery High:                  >=4.5            mmol/L\n\nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
+            "DisplayDate": "2019-07-10T13:44:00+08:00",
+            "Value": "2.0",
+            "Unit": "mmol/L",
+            "IsAbnormalOrCritical": false
+         },
+         {
+            "TestName": "Cholesterol HDL, serum",
+            "TestResult": "1.0 (mmol/L)",
+            "ReferenceRange": null,
+            "Remarks": "Low:                          <1.0               mmol/L\nDesirable:                 1.0 - 1.5         mmol/L\nHigh:                         >=1.6             mmol/L\n\nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
+            "DisplayDate": "2019-07-10T13:44:00+08:00",
+            "Value": "1.0",
+            "Unit": "mmol/L",
+            "IsAbnormalOrCritical": false
+         },
+         {
+            "TestName": "Cholesterol Total, serum",
+            "TestResult": "5.0 (mmol/L)",
+            "ReferenceRange": null,
+            "Remarks": "Desirable:                          <5.2          mmol/L\nBorderline high:                 5.2 - 6.1    mmol/L\nHigh:                                  >=6.2        mmol/L \n  \nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
+            "DisplayDate": "2019-07-10T13:44:00+08:00",
+            "Value": "5.0",
+            "Unit": "mmol/L",
+            "IsAbnormalOrCritical": false
+         }
+      ]
+   }
+}
+}
