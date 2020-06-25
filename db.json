@@ -170,5 +170,46 @@
          "AlternativeContactMobile": "83133313",
          "AlternativeContactRelationship": "Sister"
       }
+   },
+   "ConsultationHistory" : {
+      {
+  "ResponseCode": 200,
+  "ErrorMessage": null,
+  "Content": {
+    "IsLastPage": false,
+    "ConsultHistories": [
+      {
+        "Location": "SOC-Clinic-XYY",
+        "Specialty": "Endocrinology",
+        "Date": "2019-02-25T10:55:00",
+        "VisitNumber": "05ax0/OpucLuyYqzJMGc+irH92NU1p93JOI9Jy7KVzhm1A6hvnxNBm8dhaXiwm5COPxIT9jocOh2/DpjnHhaYL78U9QDJHz/6fZGsu9OBGk=",
+        "InstitutionCode": "SGH",
+        "InstitutionName": "Singapore General Hospital",
+        "Read": false,
+        "MsgID": "140"
+      },
+      {
+        "Location": "SOC-Clinic-XYY",
+        "Specialty": "Endocrinology",
+        "Date": "2019-02-15T09:40:00",
+        "VisitNumber": "+9BgFEafiunAL31v9cFXP/ZjYpmfF106Dh79U61lad+psE7YSXpAlkl/RoFnGJeM4pheiNjbrJwvjBYwfIQ71svD4WFnhxuJ2WSgkMpDr2g=",
+        "InstitutionCode": "SGH",
+        "InstitutionName": "Singapore General Hospital",
+        "Read": false,
+        "MsgID": "139"
+      },
+      {
+        "Location": "SOC-Clinic-XYY",
+        "Specialty": "Endocrinology",
+        "Date": "2019-02-01T10:30:00",
+        "VisitNumber": "Ef0D+JYCD3/2yBbo1K5rKTM9XNHg9Kd7zFKzhbYsrMTcA0+qJbFP2ml4MKRHakn4d9PJMol7Hc49JgE9C++uM61XATAx3PF1k5bEiQRql3s=",
+        "InstitutionCode": "SGH",
+        "InstitutionName": "Singapore General Hospital",
+        "Read": false,
+        "MsgID": "138"
+      }
+    ]
+  }
+}
    }
 }
