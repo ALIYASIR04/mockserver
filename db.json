@@ -1,215 +1,213 @@
 {
-   "NonTrendingDetails": {
-      "ResponseCode": 200,
-      "ErrorMessage": null,
-      "Content": {
-         "Summary": {
-            "OrderingFacility": "KKH",
-            "PerformingFacility": "KKH",
-            "DisplayDate": "2019-07-10T13:44:00+08:00",
-            "RecordId": "200t0s1M171L1M1O1B1L1B1M131W1D1D1A1W1W1W0n0v0j0n0v0n0j0m0m0n0v1W1W0v0m0m0m0m0m0r0t0t0r0p0m0m0n0s0m",
-            "Title": "Lipid Panel (CHO/HDL/TG/LDLc)",
-            "HasAbnormalRecord": false
-         },
-         "Details": [
-            {
-               "TestName": "Cholesterol LDL, Calc",
-               "TestResult": "3.1 (mmol/L)",
-               "ReferenceRange": null,
-               "Remarks": "Optimal:                    <2.6               mmol/L\nDesirable:                 2.6 - 3.3         mmol/L\nBorderline high:        3.4 - 4.0         mmol/L\nHigh:                         4.1 - 4.8         mmol/L\nVery High:                >=4.9              mmol/L\n\nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
-               "DisplayDate": "2019-07-10T13:44:00+08:00",
-               "Value": "3.1",
-               "Unit": "mmol/L",
-               "IsAbnormalOrCritical": false
-            },
-            {
-               "TestName": "Triglycerides, serum",
-               "TestResult": "2.0 (mmol/L)",
-               "ReferenceRange": null,
-               "Remarks": "Optimal:                     <1.7              mmol/L\nDesirable:                  1.7 - 2.2        mmol/L\nHigh:                          2.3 - 4.4        mmol/L\nVery High:                  >=4.5            mmol/L\n\nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
-               "DisplayDate": "2019-07-10T13:44:00+08:00",
-               "Value": "2.0",
-               "Unit": "mmol/L",
-               "IsAbnormalOrCritical": false
-            },
-            {
-               "TestName": "Cholesterol HDL, serum",
-               "TestResult": "1.0 (mmol/L)",
-               "ReferenceRange": null,
-               "Remarks": "Low:                          <1.0               mmol/L\nDesirable:                 1.0 - 1.5         mmol/L\nHigh:                         >=1.6             mmol/L\n\nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
-               "DisplayDate": "2019-07-10T13:44:00+08:00",
-               "Value": "1.0",
-               "Unit": "mmol/L",
-               "IsAbnormalOrCritical": false
-            },
-            {
-               "TestName": "Cholesterol Total, serum",
-               "TestResult": "5.0 (mmol/L)",
-               "ReferenceRange": null,
-               "Remarks": "Desirable:                          <5.2          mmol/L\nBorderline high:                 5.2 - 6.1    mmol/L\nHigh:                                  >=6.2        mmol/L \n  \nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
-               "DisplayDate": "2019-07-10T13:44:00+08:00",
-               "Value": "5.0",
-               "Unit": "mmol/L",
-               "IsAbnormalOrCritical": false
-            }
-         ]
-      }
-   },
-   "Trending": {
-      "ResponseCode": 200,
-      "ErrorMessage": null,
-      "Content": {
-         "DataPoints": [
-            {
-               "TestName": "Cholesterol LDL, Calc",
-               "TestResult": "0.80 (MMOL/L)",
-               "ReferenceRange": null,
-               "Remarks": null,
-               "DisplayDate": "2018-12-12T13:02:00+08:00",
-               "Value": "0.80",
-               "Unit": "MMOL/L",
-               "IsAbnormalOrCritical": false
-            },
-            {
-               "TestName": "Cholesterol LDL, Calc",
-               "TestResult": "0.15 (MMOL/L)",
-               "ReferenceRange": null,
-               "Remarks": null,
-               "DisplayDate": "2018-12-12T13:03:00+08:00",
-               "Value": "0.15",
-               "Unit": "MMOL/L",
-               "IsAbnormalOrCritical": false
-            },
-            {
-               "TestName": "Cholesterol LDL, Calc",
-               "TestResult": "1.62 (MMOL/L)",
-               "ReferenceRange": null,
-               "Remarks": null,
-               "DisplayDate": "2018-12-12T15:04:00+08:00",
-               "Value": "1.62",
-               "Unit": "MMOL/L",
-               "IsAbnormalOrCritical": false
-            },
-            {
-               "TestName": "Cholesterol LDL, Calc",
-               "TestResult": "1.62 (MMOL/L)",
-               "ReferenceRange": null,
-               "Remarks": null,
-               "DisplayDate": "2018-12-12T15:04:00+08:00",
-               "Value": "1.62",
-               "Unit": "MMOL/L",
-               "IsAbnormalOrCritical": false
-            }
-         ],
-         "Title": "Lipid Panel (CHO/HDL/TG/LDLc)",
-         "HasAbnormalRecord": false
-      }
-   },
-   "TestResultList": {
-      "ResponseCode": 200,
-      "ErrorMessage": null,
-      "Content": {
-         "NonTrendingTestResults": [
-            {
-               "OrderingFacility": "NHC",
-               "PerformingFacility": "SGH",
-               "DisplayDate": "2019-04-01T14:10:00+08:00",
-               "RecordId": "201A0n0n0v0m0o0t0r0m0v140m0m0m0q1W1G1A151W1W1W0m0n0m0q0w14150o0m0m0n1W1W0v0m0m0m0m0m0r0t0t0t0n0m0m0n0s0m",
-               "Title": "Renal Panel (U/E/BICARB/CRE), serum",
-               "HasAbnormalRecord": false
-            },
-            {
-               "OrderingFacility": "NHC",
-               "PerformingFacility": "SGH",
-               "DisplayDate": "2019-04-01T14:10:00+08:00",
-               "RecordId": "201A0n0n0v0m0o0t0r0m0v140m0m0m0q1W1G1A151W1W1W0m0n0m0q0w14150o0m0m0n1W1W0v0m0m0m0m0m0t0s0p0m0t0m0m0n0s0m",
-               "Title": "Liver Panel (TP/ALB/TBIL/ALP/ALT/AST), serum",
-               "HasAbnormalRecord": false
-            },
-            {
-               "OrderingFacility": "NHC",
-               "PerformingFacility": "SGH",
-               "DisplayDate": "2019-04-01T14:10:00+08:00",
-               "RecordId": "201A0n0n0v0m0o0t0r0m0v140m0m0m0q1W1G1A151W1W1W0m0n0m0q0w1A130m0m0m0n1W1W0s0m0m0m0m0m0n0o0q0n0m0n0s0m0m0n",
-               "Title": "Full Blood Count",
-               "HasAbnormalRecord": false
-            },
-            {
-               "OrderingFacility": "SHP",
-               "PerformingFacility": "SGH",
-               "DisplayDate": "2018-12-18T15:00:00+08:00",
-               "RecordId": "201I190n0u0m0r0r0p0o0r180m0m0m0p1W1L1A1I1W1W1W0n0u0n0o0w141I0u0m0m0n1W1W0o0m0m0m0m0m0n0o0m0t0m0n0s0m0m0n",
-               "Title": "HBA1c, blood",
-               "HasAbnormalRecord": false
-            },
-            {
-               "OrderingFacility": "SHP",
-               "PerformingFacility": "SGH",
-               "DisplayDate": "2018-12-18T15:00:00+08:00",
-               "RecordId": "201I190n0u0m0r0r0p0o0r180m0m0m0p1W1L1A1I1W1W1W0n0u0n0o0w14150o0m0m0n1W1W0v0m0m0m0m0n0m0t0t0o0n0m0m0n0s0m",
-               "Title": "Glucose, Plasma, Fasting",
-               "HasAbnormalRecord": false
-            }
-         ],
-         "HasMoreRecords": true
-      }
-   },
-   "PatientProfile": {
-      "ResponseCode": 200,
-      "ErrorMessage": null,
-      "Content": {
-         "Name": "Tan Ah Kau",
-         "Level": "10",
-         "UnitNo": "331",
-         "BlockOrHouseNo": "333",
-         "Street": "Yishun Street 31",
-         "PostalCode": "760333",
-         "MainContactMobile": "89121212",
-         "MainContactEmail": "yy@unity.com",
-         "MainContactRelationship": "Self",
-         "AlternativeContactMobile": "83133313",
-         "AlternativeContactRelationship": "Sister"
-      }
-   },
-   "ConsultationHistory" : {
-      {
-  "ResponseCode": 200,
-  "ErrorMessage": null,
-  "Content": {
-    "IsLastPage": false,
-    "ConsultHistories": [
-      {
-        "Location": "SOC-Clinic-XYY",
-        "Specialty": "Endocrinology",
-        "Date": "2019-02-25T10:55:00",
-        "VisitNumber": "05ax0/OpucLuyYqzJMGc+irH92NU1p93JOI9Jy7KVzhm1A6hvnxNBm8dhaXiwm5COPxIT9jocOh2/DpjnHhaYL78U9QDJHz/6fZGsu9OBGk=",
-        "InstitutionCode": "SGH",
-        "InstitutionName": "Singapore General Hospital",
-        "Read": false,
-        "MsgID": "140"
+  "NonTrendingDetails": {
+    "ResponseCode": 200,
+    "ErrorMessage": null,
+    "Content": {
+      "Summary": {
+        "OrderingFacility": "KKH",
+        "PerformingFacility": "KKH",
+        "DisplayDate": "2019-07-10T13:44:00+08:00",
+        "RecordId": "200t0s1M171L1M1O1B1L1B1M131W1D1D1A1W1W1W0n0v0j0n0v0n0j0m0m0n0v1W1W0v0m0m0m0m0m0r0t0t0r0p0m0m0n0s0m",
+        "Title": "Lipid Panel (CHO/HDL/TG/LDLc)",
+        "HasAbnormalRecord": false
       },
-      {
-        "Location": "SOC-Clinic-XYY",
-        "Specialty": "Endocrinology",
-        "Date": "2019-02-15T09:40:00",
-        "VisitNumber": "+9BgFEafiunAL31v9cFXP/ZjYpmfF106Dh79U61lad+psE7YSXpAlkl/RoFnGJeM4pheiNjbrJwvjBYwfIQ71svD4WFnhxuJ2WSgkMpDr2g=",
-        "InstitutionCode": "SGH",
-        "InstitutionName": "Singapore General Hospital",
-        "Read": false,
-        "MsgID": "139"
-      },
-      {
-        "Location": "SOC-Clinic-XYY",
-        "Specialty": "Endocrinology",
-        "Date": "2019-02-01T10:30:00",
-        "VisitNumber": "Ef0D+JYCD3/2yBbo1K5rKTM9XNHg9Kd7zFKzhbYsrMTcA0+qJbFP2ml4MKRHakn4d9PJMol7Hc49JgE9C++uM61XATAx3PF1k5bEiQRql3s=",
-        "InstitutionCode": "SGH",
-        "InstitutionName": "Singapore General Hospital",
-        "Read": false,
-        "MsgID": "138"
-      }
-    ]
+      "Details": [
+        {
+          "TestName": "Cholesterol LDL, Calc",
+          "TestResult": "3.1 (mmol/L)",
+          "ReferenceRange": null,
+          "Remarks": "Optimal:                    <2.6               mmol/L\nDesirable:                 2.6 - 3.3         mmol/L\nBorderline high:        3.4 - 4.0         mmol/L\nHigh:                         4.1 - 4.8         mmol/L\nVery High:                >=4.9              mmol/L\n\nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
+          "DisplayDate": "2019-07-10T13:44:00+08:00",
+          "Value": "3.1",
+          "Unit": "mmol/L",
+          "IsAbnormalOrCritical": false
+        },
+        {
+          "TestName": "Triglycerides, serum",
+          "TestResult": "2.0 (mmol/L)",
+          "ReferenceRange": null,
+          "Remarks": "Optimal:                     <1.7              mmol/L\nDesirable:                  1.7 - 2.2        mmol/L\nHigh:                          2.3 - 4.4        mmol/L\nVery High:                  >=4.5            mmol/L\n\nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
+          "DisplayDate": "2019-07-10T13:44:00+08:00",
+          "Value": "2.0",
+          "Unit": "mmol/L",
+          "IsAbnormalOrCritical": false
+        },
+        {
+          "TestName": "Cholesterol HDL, serum",
+          "TestResult": "1.0 (mmol/L)",
+          "ReferenceRange": null,
+          "Remarks": "Low:                          <1.0               mmol/L\nDesirable:                 1.0 - 1.5         mmol/L\nHigh:                         >=1.6             mmol/L\n\nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
+          "DisplayDate": "2019-07-10T13:44:00+08:00",
+          "Value": "1.0",
+          "Unit": "mmol/L",
+          "IsAbnormalOrCritical": false
+        },
+        {
+          "TestName": "Cholesterol Total, serum",
+          "TestResult": "5.0 (mmol/L)",
+          "ReferenceRange": null,
+          "Remarks": "Desirable:                          <5.2          mmol/L\nBorderline high:                 5.2 - 6.1    mmol/L\nHigh:                                  >=6.2        mmol/L \n  \nSource: MOH Clinical Practice Guidelines 2/2016 for Lipids",
+          "DisplayDate": "2019-07-10T13:44:00+08:00",
+          "Value": "5.0",
+          "Unit": "mmol/L",
+          "IsAbnormalOrCritical": false
+        }
+      ]
+    }
+  },
+  "Trending": {
+    "ResponseCode": 200,
+    "ErrorMessage": null,
+    "Content": {
+      "DataPoints": [
+        {
+          "TestName": "Cholesterol LDL, Calc",
+          "TestResult": "0.80 (MMOL/L)",
+          "ReferenceRange": null,
+          "Remarks": null,
+          "DisplayDate": "2018-12-12T13:02:00+08:00",
+          "Value": "0.80",
+          "Unit": "MMOL/L",
+          "IsAbnormalOrCritical": false
+        },
+        {
+          "TestName": "Cholesterol LDL, Calc",
+          "TestResult": "0.15 (MMOL/L)",
+          "ReferenceRange": null,
+          "Remarks": null,
+          "DisplayDate": "2018-12-12T13:03:00+08:00",
+          "Value": "0.15",
+          "Unit": "MMOL/L",
+          "IsAbnormalOrCritical": false
+        },
+        {
+          "TestName": "Cholesterol LDL, Calc",
+          "TestResult": "1.62 (MMOL/L)",
+          "ReferenceRange": null,
+          "Remarks": null,
+          "DisplayDate": "2018-12-12T15:04:00+08:00",
+          "Value": "1.62",
+          "Unit": "MMOL/L",
+          "IsAbnormalOrCritical": false
+        },
+        {
+          "TestName": "Cholesterol LDL, Calc",
+          "TestResult": "1.62 (MMOL/L)",
+          "ReferenceRange": null,
+          "Remarks": null,
+          "DisplayDate": "2018-12-12T15:04:00+08:00",
+          "Value": "1.62",
+          "Unit": "MMOL/L",
+          "IsAbnormalOrCritical": false
+        }
+      ],
+      "Title": "Lipid Panel (CHO/HDL/TG/LDLc)",
+      "HasAbnormalRecord": false
+    }
+  },
+  "TestResultList": {
+    "ResponseCode": 200,
+    "ErrorMessage": null,
+    "Content": {
+      "NonTrendingTestResults": [
+        {
+          "OrderingFacility": "NHC",
+          "PerformingFacility": "SGH",
+          "DisplayDate": "2019-04-01T14:10:00+08:00",
+          "RecordId": "201A0n0n0v0m0o0t0r0m0v140m0m0m0q1W1G1A151W1W1W0m0n0m0q0w14150o0m0m0n1W1W0v0m0m0m0m0m0r0t0t0t0n0m0m0n0s0m",
+          "Title": "Renal Panel (U/E/BICARB/CRE), serum",
+          "HasAbnormalRecord": false
+        },
+        {
+          "OrderingFacility": "NHC",
+          "PerformingFacility": "SGH",
+          "DisplayDate": "2019-04-01T14:10:00+08:00",
+          "RecordId": "201A0n0n0v0m0o0t0r0m0v140m0m0m0q1W1G1A151W1W1W0m0n0m0q0w14150o0m0m0n1W1W0v0m0m0m0m0m0t0s0p0m0t0m0m0n0s0m",
+          "Title": "Liver Panel (TP/ALB/TBIL/ALP/ALT/AST), serum",
+          "HasAbnormalRecord": false
+        },
+        {
+          "OrderingFacility": "NHC",
+          "PerformingFacility": "SGH",
+          "DisplayDate": "2019-04-01T14:10:00+08:00",
+          "RecordId": "201A0n0n0v0m0o0t0r0m0v140m0m0m0q1W1G1A151W1W1W0m0n0m0q0w1A130m0m0m0n1W1W0s0m0m0m0m0m0n0o0q0n0m0n0s0m0m0n",
+          "Title": "Full Blood Count",
+          "HasAbnormalRecord": false
+        },
+        {
+          "OrderingFacility": "SHP",
+          "PerformingFacility": "SGH",
+          "DisplayDate": "2018-12-18T15:00:00+08:00",
+          "RecordId": "201I190n0u0m0r0r0p0o0r180m0m0m0p1W1L1A1I1W1W1W0n0u0n0o0w141I0u0m0m0n1W1W0o0m0m0m0m0m0n0o0m0t0m0n0s0m0m0n",
+          "Title": "HBA1c, blood",
+          "HasAbnormalRecord": false
+        },
+        {
+          "OrderingFacility": "SHP",
+          "PerformingFacility": "SGH",
+          "DisplayDate": "2018-12-18T15:00:00+08:00",
+          "RecordId": "201I190n0u0m0r0r0p0o0r180m0m0m0p1W1L1A1I1W1W1W0n0u0n0o0w14150o0m0m0n1W1W0v0m0m0m0m0n0m0t0t0o0n0m0m0n0s0m",
+          "Title": "Glucose, Plasma, Fasting",
+          "HasAbnormalRecord": false
+        }
+      ],
+      "HasMoreRecords": true
+    }
+  },
+  "PatientProfile": {
+    "ResponseCode": 200,
+    "ErrorMessage": null,
+    "Content": {
+      "Name": "Tan Ah Kau",
+      "Level": "10",
+      "UnitNo": "331",
+      "BlockOrHouseNo": "333",
+      "Street": "Yishun Street 31",
+      "PostalCode": "760333",
+      "MainContactMobile": "89121212",
+      "MainContactEmail": "yy@unity.com",
+      "MainContactRelationship": "Self",
+      "AlternativeContactMobile": "83133313",
+      "AlternativeContactRelationship": "Sister"
+    }
+  },
+  "ConsultationHistory": {
+    "ResponseCode": 200,
+    "ErrorMessage": null,
+    "Content": {
+      "IsLastPage": false,
+      "ConsultHistories": [
+        {
+          "Location": "SOC-Clinic-XYY",
+          "Specialty": "Endocrinology",
+          "Date": "2019-02-25T10:55:00",
+          "VisitNumber": "05ax0/OpucLuyYqzJMGc+irH92NU1p93JOI9Jy7KVzhm1A6hvnxNBm8dhaXiwm5COPxIT9jocOh2/DpjnHhaYL78U9QDJHz/6fZGsu9OBGk=",
+          "InstitutionCode": "SGH",
+          "InstitutionName": "Singapore General Hospital",
+          "Read": false,
+          "MsgID": "140"
+        },
+        {
+          "Location": "SOC-Clinic-XYY",
+          "Specialty": "Endocrinology",
+          "Date": "2019-02-15T09:40:00",
+          "VisitNumber": "+9BgFEafiunAL31v9cFXP/ZjYpmfF106Dh79U61lad+psE7YSXpAlkl/RoFnGJeM4pheiNjbrJwvjBYwfIQ71svD4WFnhxuJ2WSgkMpDr2g=",
+          "InstitutionCode": "SGH",
+          "InstitutionName": "Singapore General Hospital",
+          "Read": false,
+          "MsgID": "139"
+        },
+        {
+          "Location": "SOC-Clinic-XYY",
+          "Specialty": "Endocrinology",
+          "Date": "2019-02-01T10:30:00",
+          "VisitNumber": "Ef0D+JYCD3/2yBbo1K5rKTM9XNHg9Kd7zFKzhbYsrMTcA0+qJbFP2ml4MKRHakn4d9PJMol7Hc49JgE9C++uM61XATAx3PF1k5bEiQRql3s=",
+          "InstitutionCode": "SGH",
+          "InstitutionName": "Singapore General Hospital",
+          "Read": false,
+          "MsgID": "138"
+        }
+      ]
+    }
   }
-}
-   }
 }
